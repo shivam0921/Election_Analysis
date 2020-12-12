@@ -20,7 +20,7 @@ The analysis of the election is states that:
 
 Total Votes: 369,711
 
-*Candidates with there respective results:*
+## Candidates with there respective results:
   
   Charles Casper Stockham: 23.0% (85,213)
   
@@ -28,7 +28,7 @@ Total Votes: 369,711
   
   Raymon Anthony Doane: 3.1% (11,606)
 
- *Winning Candidate*
+ ## Winning Candidate
   
   Winner: Diana DeGette
   
@@ -36,7 +36,7 @@ Total Votes: 369,711
   
  Winning Percentage: 73.8%
 
-*Vote Percentage By County*
+## Vote Percentage By County
   
    Jefferson: 10.5% (38,855)
 
