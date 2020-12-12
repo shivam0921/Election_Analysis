@@ -28,7 +28,7 @@ Total Votes: 369,711
   
   * Raymon Anthony Doane: 3.1% (11,606)
 
- * Winning Candidate *
+ *Winning Candidate*
   
  * Winner: Diana DeGette
   
