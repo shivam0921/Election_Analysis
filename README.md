@@ -11,7 +11,9 @@ A Colorado State Board Elections employee has requested to help them to analysis
 5. The winner of the election based on popular vote
 
 ## Resources
-* Data Source:
+* Data provided by Colorado Board of Elections as : election_results.csv
+* Tools Used: Visual Studio Code (1.51.1), Git Bash (2.29.2), Python 3.7.9
+* Stack Overflow
 
 ## Summary
 
