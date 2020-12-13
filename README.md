@@ -73,7 +73,8 @@ from sqlalchemy import create_engine.
  import pandas as pd.
  
  from tldextract import extract.
-The election board can also add more data attributes and we can do more in-depth analyis.
+ 
+ The election board can also add more data attributes and we can do more in-depth analyis.
 
 
 
