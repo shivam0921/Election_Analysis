@@ -18,7 +18,7 @@ A Colorado State Board Elections employee has requested to help them to analysis
 ## Summary of Analysis
 The analysis of the election is states that:
 
-![election_analyis](https://github.com/shivam0921/Election_Analysis/blob/main/PyPoll%20Challenge/Resources/election_analysis_challenge_results.PNG)
+https://github.com/shivam0921/Election_Analysis/blob/main/analysis/county_analysis.txt
 
 Total Votes: 369,711
 
@@ -59,6 +59,7 @@ Total Votes: 369,711
 7.Percentage of Voters in each County
 8. County with the highest number of voters
 
+![election_analyis](https://github.com/shivam0921/Election_Analysis/blob/main/PyPoll%20Challenge/Resources/election_analysis_challenge_results.PNG)
 
 ## Election Challenge Summary
 The script provided to the colorado election state board will help them analysis in future with very less changes to the script. They can use the script among different districts and automate the process of counting the votes.
