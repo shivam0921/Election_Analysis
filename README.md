@@ -18,7 +18,7 @@ A Colorado State Board Elections employee has requested to help them to analysis
 ## Summary of Analysis
 The analysis of the election is states that:
 
-https://github.com/shivam0921/Election_Analysis/blob/main/analysis/county_analysis.txt
+![election_analyis](https://github.com/shivam0921/Election_Analysis/blob/main/analysis/election_analysis.txt)
 
 Total Votes: 369,711
 
