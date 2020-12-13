@@ -65,10 +65,14 @@ Total Votes: 369,711
 The script provided to the colorado election state board will help them analysis in future with very less changes to the script. They can use the script among different districts and automate the process of counting the votes.
 With making some changes to the script we can connect to different database engines after adding this to code:
 from sqlalchemy import create_engine.
-import numpy as np.
-from os import walk.
-import pandas as pd.
-from tldextract import extract.
+ 
+ import numpy as np.
+ 
+ from os import walk.
+ 
+ import pandas as pd.
+ 
+ from tldextract import extract.
 The election board can also add more data attributes and we can do more in-depth analyis.
 
 
